@@ -4,12 +4,12 @@ Solución de Ejercicios
 ####Escriba un algoritmo que pregunte por dos números y muestre como resultado la suma de estos.
 ######Ejemplo 1:  
 _Input:_  
-_num1=4_
-_num2=5_
-_Output_
-_9_
+_num1=4_ 
+_num2=5_ 
+_Output_ 
+_9_ 
 ######Ejemplo 2:
-_Input:_  
+_Input:_   
 _num1=100_
 _num2=120_
 _Output_
