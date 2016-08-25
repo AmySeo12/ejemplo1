@@ -13,7 +13,8 @@ _9_
 ######Ejemplo 2:
 _Input:_    
 _num1=100_    
-_num2=120_    
+_num2=120_ 
+
 _Output_  
 
 _220_   
