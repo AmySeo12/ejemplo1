@@ -16,8 +16,8 @@ _num2=120_
 _Output_
 _220_
 ___Completando la función___
-1. INICIO
 
+1. INICIO
 2. INGRESAR VALOR DE "NUMERO1"
 3. GUARDAR VALOR
 4. INGRESAR VALOR DE "NUMERO2"
