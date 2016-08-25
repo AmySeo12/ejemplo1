@@ -3,7 +3,6 @@ Solución de Ejercicios
 ###Suma de dos números
 ####Escriba un algoritmo que pregunte por dos números y muestre como resultado la suma de estos.
 ######Ejemplo 1:
-
 _Input:_
 _num1=4_
 _num2=5_
